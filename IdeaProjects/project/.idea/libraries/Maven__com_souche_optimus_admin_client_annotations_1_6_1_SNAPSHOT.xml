@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.souche:optimus-admin-client-annotations:1.6.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/souche/optimus-admin-client-annotations/1.6.1-SNAPSHOT/optimus-admin-client-annotations-1.6.1-20190411.093634-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/souche/optimus-admin-client-annotations/1.6.1-SNAPSHOT/optimus-admin-client-annotations-1.6.1-20190411.093634-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/souche/optimus-admin-client-annotations/1.6.1-SNAPSHOT/optimus-admin-client-annotations-1.6.1-20190411.093634-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
